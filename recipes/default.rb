@@ -10,6 +10,6 @@ package 'libpq-dev' do
   action :install
 end
 
-pacakge 'hunspell' do
+package 'hunspell' do
   action :install
 end

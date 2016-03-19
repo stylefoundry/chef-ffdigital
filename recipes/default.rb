@@ -13,3 +13,7 @@ end
 package 'hunspell' do
   action :install
 end
+
+package 'libhunspell-dev' do
+  action :install
+end
